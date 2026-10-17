@@ -1,0 +1,6 @@
+{
+  "name": "Civika - Pembelajaran Civic & PPKn Interaktif",
+  "description": "Platform edukasi kewarganegaraan interaktif dengan eksplorasi Pancasila, konstitusi UUD 1945, diagram lembaga tata negara, simulasi musyawarah kewarganegaraan, dan uji kompetensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
